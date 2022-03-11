@@ -1,0 +1,1 @@
+{"exams":[{"coef":2,"dateExam":"\/Date(1638226800000+0100)\/","isAbsent":true,"module":{"coef":2,"name":"proba"},"score":16,"teacher":"prof"}],"units":[{"coef":1,"name":"maths","modules":[{"coef":2,"name":"proba"}]}]}

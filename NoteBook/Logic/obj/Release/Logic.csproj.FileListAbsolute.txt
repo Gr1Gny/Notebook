@@ -1,0 +1,12 @@
+C:\Users\nm344384\Desktop\nm344384\POO\NoteBook\Logic\bin\Release\Logic.dll
+C:\Users\nm344384\Desktop\nm344384\POO\NoteBook\Logic\bin\Release\Logic.pdb
+C:\Users\nm344384\Desktop\nm344384\POO\NoteBook\Logic\obj\Release\Logic.csproj.AssemblyReference.cache
+C:\Users\nm344384\Desktop\nm344384\POO\NoteBook\Logic\obj\Release\Logic.csproj.CoreCompileInputs.cache
+C:\Users\nm344384\Desktop\nm344384\POO\NoteBook\Logic\obj\Release\Logic.dll
+C:\Users\nm344384\Desktop\nm344384\POO\NoteBook\Logic\obj\Release\Logic.pdb
+C:\Users\Noham\Desktop\poo\POO\NoteBook\Logic\bin\Release\Logic.dll
+C:\Users\Noham\Desktop\poo\POO\NoteBook\Logic\bin\Release\Logic.pdb
+C:\Users\Noham\Desktop\poo\POO\NoteBook\Logic\obj\Release\Logic.csproj.AssemblyReference.cache
+C:\Users\Noham\Desktop\poo\POO\NoteBook\Logic\obj\Release\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Noham\Desktop\poo\POO\NoteBook\Logic\obj\Release\Logic.dll
+C:\Users\Noham\Desktop\poo\POO\NoteBook\Logic\obj\Release\Logic.pdb

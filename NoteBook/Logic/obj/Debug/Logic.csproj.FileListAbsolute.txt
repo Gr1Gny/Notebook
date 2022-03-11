@@ -1,0 +1,23 @@
+C:\Users\nm344384\Desktop\poo\POO\NoteBook\Logic\bin\Debug\Logic.dll
+C:\Users\nm344384\Desktop\poo\POO\NoteBook\Logic\bin\Debug\Logic.pdb
+C:\Users\nm344384\Desktop\poo\POO\NoteBook\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\nm344384\Desktop\poo\POO\NoteBook\Logic\obj\Debug\Logic.dll
+C:\Users\nm344384\Desktop\poo\POO\NoteBook\Logic\obj\Debug\Logic.pdb
+C:\Users\nm344384\Desktop\poo\POO\NoteBook\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\Noham\Desktop\poo\POO\NoteBook\Logic\bin\Debug\Logic.dll
+C:\Users\Noham\Desktop\poo\POO\NoteBook\Logic\bin\Debug\Logic.pdb
+C:\Users\Noham\Desktop\poo\POO\NoteBook\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Noham\Desktop\poo\POO\NoteBook\Logic\obj\Debug\Logic.dll
+C:\Users\Noham\Desktop\poo\POO\NoteBook\Logic\obj\Debug\Logic.pdb
+C:\Users\Noham\Desktop\Nouveau dossier\POO\NoteBook\Logic\bin\Debug\Logic.dll
+C:\Users\Noham\Desktop\Nouveau dossier\POO\NoteBook\Logic\bin\Debug\Logic.pdb
+C:\Users\Noham\Desktop\Nouveau dossier\POO\NoteBook\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\Noham\Desktop\Nouveau dossier\POO\NoteBook\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Noham\Desktop\Nouveau dossier\POO\NoteBook\Logic\obj\Debug\Logic.dll
+C:\Users\Noham\Desktop\Nouveau dossier\POO\NoteBook\Logic\obj\Debug\Logic.pdb
+C:\Users\nm344384\Desktop\nm344384\POO\NoteBook\Logic\bin\Debug\Logic.dll
+C:\Users\nm344384\Desktop\nm344384\POO\NoteBook\Logic\bin\Debug\Logic.pdb
+C:\Users\nm344384\Desktop\nm344384\POO\NoteBook\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\nm344384\Desktop\nm344384\POO\NoteBook\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\nm344384\Desktop\nm344384\POO\NoteBook\Logic\obj\Debug\Logic.dll
+C:\Users\nm344384\Desktop\nm344384\POO\NoteBook\Logic\obj\Debug\Logic.pdb

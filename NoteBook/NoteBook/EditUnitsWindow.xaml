@@ -1,0 +1,20 @@
+﻿<Window x:Class="NoteBook.EditUnitsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NoteBook"
+        mc:Ignorable="d"
+        Title="Edit units and modules" Height="450" Width="800">
+    <Grid>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="100,352,0,0" VerticalAlignment="Top" Width="109" Height="35" Click="CreateUnit"/>
+        <Button Content="Remove" HorizontalAlignment="Left" Margin="238,352,0,0" VerticalAlignment="Top" Width="103" Height="35" Click="RemoveUnit"/>
+        <ListBox x:Name="units" HorizontalAlignment="Left" Height="211" Margin="100,105,0,0" VerticalAlignment="Top" Width="241" MouseDoubleClick="EditUnit" SelectionChanged="SelectUnit"/>
+        <Label Content="Courses Units :" HorizontalAlignment="Left" Margin="100,74,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="modules" HorizontalAlignment="Left" Height="211" Margin="458,105,0,0" VerticalAlignment="Top" Width="236" MouseDoubleClick="EditModules"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="458,352,0,0" VerticalAlignment="Top" Width="103" Height="35" Click="CreateModule"/>
+        <Button Content="Remove" HorizontalAlignment="Left" Margin="591,352,0,0" VerticalAlignment="Top" Width="103" Height="35" Click="RemoveModule"/>
+        <Label Content="Modules :" HorizontalAlignment="Left" Margin="458,74,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

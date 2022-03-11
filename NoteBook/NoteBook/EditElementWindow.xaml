@@ -1,0 +1,17 @@
+﻿<Window x:Class="NoteBook.EditElementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NoteBook"
+        mc:Ignorable="d"
+        Title="Edit Element" Height="450" Width="800">
+    <Grid>
+        <Label Content="Name :" HorizontalAlignment="Left" Margin="110,100,0,0" VerticalAlignment="Top"/>
+        <Label Content="Coeficient :" HorizontalAlignment="Left" Margin="110,193,0,0" VerticalAlignment="Top"/>
+        <Button Content="Validate" HorizontalAlignment="Left" Margin="270,327,0,0" VerticalAlignment="Top" Width="119" Height="44" Click="Validate"/>
+        <TextBox x:Name="coef" HorizontalAlignment="Left" Height="23" Margin="341,197,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="name" HorizontalAlignment="Left" Height="23" Margin="341,104,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
